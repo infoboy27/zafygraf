@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 610" role="img" aria-labelledby="title desc">
+  <title id="title">Zafy Graf</title>
+  <desc id="desc">Zafy Graf colorful brand mark</desc>
+  <rect width="620" height="610" rx="24" fill="#fff"/>
+  <g transform="translate(16 24)">
+    <path d="M0 80H236c49 0 72 39 46 78L109 403h159l-51 75H0l177-258H0z" fill="#e8348a"/>
+    <path d="M319 75c35-63 112-72 173-32 73 47 100 122 91 211H475c-1-49-34-80-80-80-59 0-97 45-97 110 0 67 40 108 101 108 43 0 70-20 82-56h-70v-69h177v211h-82v-45c-30 37-72 56-126 56-101 0-170-77-170-194 0-84 31-160 79-220z" fill="#5aa5cf"/>
+    <path d="M282 184c22 10 41 31 41 57 0 42-25 78-41 111-14 30-11 65-40 84-20 13-57 11-73-7-18-20-9-48 7-66 14-16 35-21 48-39 15-20 19-47 22-71 3-27 9-56 36-69z" fill="#f8e83a"/>
+    <circle cx="393" cy="151" r="34" fill="#f8e83a"/>
+    <circle cx="249" cy="248" r="21" fill="#f8e83a"/>
+    <path d="M315 40c0-42 22-69 52-77 28-8 61 10 63 37 3 34-32 54-62 75-27 20-42 45-53 74z" fill="#5aa5cf"/>
+    <path d="M261 90c-17-16-31-40-25-62 6-23 29-39 50-28 24 13 23 49 21 76-1 20 4 37 11 55-23-17-39-26-57-41z" fill="#f8e83a"/>
+    <path d="M198 319c-12-21-6-52 17-61 20-8 43 5 51 25 8 22-2 49-18 65-17 17-37 28-57 42 4-28 20-49 7-71z" fill="#e8348a"/>
+  </g>
+  <text x="310" y="575" text-anchor="middle" font-family="Arial Narrow, Impact, sans-serif" font-size="86" font-weight="900" letter-spacing="3" fill="#161616">ZAFY GRAF</text>
+</svg>
